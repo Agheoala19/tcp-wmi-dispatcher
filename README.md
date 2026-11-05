@@ -2,6 +2,12 @@
 
 A concurrent client-server distributed application for remote query execution and system information gathering, built with Python Sockets and containerized using Docker.
 
+## Application Demo
+
+[![Watch Demo](https://img.youtube.com/vi/sHDLEO8FxSQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=sHDLEO8FxSQ)
+
+Click on the preview to watch the full application demonstration.
+
 ## 📌 How It Works
 
 This system simulates a remote system management environment (WMI-like) where a central server coordinates the execution of commands across multiple connected clients.
